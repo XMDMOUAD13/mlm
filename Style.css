@@ -1,0 +1,48 @@
+        section {
+            display: flex;
+            padding: 10px 130px;
+            border: 0 solid;
+        }
+
+        /* section article {
+            flex: 1;
+            padding: 10px 8px;
+           
+        } */
+
+        section article .html {
+            width: 3%;
+            position: absolute;
+            left: 140px;
+        }
+        header{
+            margin-left: 135px; ;
+            color: rgb(46, 46, 219);
+        }
+        nav{
+            height: 60px;
+            width: 79%;
+            margin-left:  135px; ;
+            border-radius: 20px;
+        }
+        #icon{
+            height: 40px;
+            width: 40px;
+        }
+        #mm{
+            margin-left:  135px; ;
+        width: 79%;
+        height: 200px;
+        padding: 2px;
+        border: solid rgb(0, 0, 0);
+        border-width: 5px;
+        }
+        footer{
+            text-align: center;
+            color: gray;
+            visibility: 1;
+        }
+        .HTML{
+            height: 40px;
+            width: 40px;
+        }
